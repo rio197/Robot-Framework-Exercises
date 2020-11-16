@@ -1,7 +1,6 @@
 *** Settings ***
 Documentation    This is some basic info about the whole suite
 Library    SeleniumLibrary
-Library    SeleniumLibrary
 
 *** Variables ***
 

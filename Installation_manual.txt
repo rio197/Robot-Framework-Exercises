@@ -1,0 +1,30 @@
+Install Python:
+0- These steps are for MS Windows
+1- Browse to python.org and click on "Downloads"
+2- Run python installer as Administrator
+  a- Select PATH and pip options
+  b- Verify python directories exist and are in the Windows PATH
+3- Type "pip list", press Enter and follow the pip upgrade directions
+
+Install Robot Framework and Selenium Library
+1- Open Windows CMD window
+2- Type "pip install robotframework" and press Enter
+3- Type "pip install robotframework-seleniumlibrary" and press Enter
+
+Install webdrivers, one for each browser to be used for testing:
+1- Create c:\bin
+2- Add c:\bin to PATH
+3- Browse to seleniumhq.org and click on "Platforms Supported by Selenium"
+4- Find "Browsers" section
+5- Download and extract each driver that corresponds with the browser versions to be used for testing into c:\bin
+
+Install PyCharm IDE
+1- Navigate to jetbrains.com and click on "Tools -> PyCharm"
+2- Download and install the Community Edition
+3- Navigate to github.com/lte2000/intellibot
+4- Download the "intellibot.jar" file
+5- On PyCharm, open the File -> Settings dialog
+6- Click on "Plugins"
+7- Click on the gear wheel icon and select "Install Plugin from Disk..."
+8- Select the "intellibot.jar" file and click on the OK button.
+9- Click on the "Restart IDE" button.
