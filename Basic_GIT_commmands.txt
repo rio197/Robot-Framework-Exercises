@@ -1,0 +1,22 @@
+Basic GIT commands
+	Start working on a new branch
+-	Create a new user story and create a new branch on tfs / the origin repo
+-	Check current branch in your local repo: git branch
+-	Switch to Dev branch (skip this step if the current branch is dev): git checkout develop
+-	Download contents from the remote repo: git fetch
+-	Merge the new data into your current working copy files: git pull
+-	Switch to the new branch: git checkout <branch no>
+
+	Ready to create pull request and do code review
+-	Add all the changes in the working directory to the staging area: git add .
+-	Commit the staged changes: git commit
+-	Publish and upload local changes to the remote repo: git push
+
+	Resolve code conflicts
+-	Make sure all the local changes are already pushed to remote repo (see the 2nd point above);
+-	Switch to dev branch: git checkout develop
+-	Pull the latest contents from dev branch: git pull
+-	Switch back to your own branch: git checkout <branch no>
+-	Merge the latest contents of dev with the contents of your local branch: git merge develop
+-	Files with conflicted contents will be listed after previous command, manually resolve the conflicts in files are needed (this step should be done with Architect team)
+-	Steps in the 2nd point above need to be done after all the conflicts resolved to bring the changes to remote repo.
