@@ -1,0 +1,1 @@
+call robot -d Results %*
