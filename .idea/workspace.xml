@@ -2,6 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a193c74-ce9c-4a50-8b80-aa52116abb81" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Robot Framework Exercises.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Robot Framework Exercises.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_GIT_commmands.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_GIT_commmands.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Installation_manual.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Installation_manual.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Test/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Test/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Test/.idea/Test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Test/.idea/Test.iml" afterDir="false" />
@@ -9,13 +17,11 @@
       <change beforePath="$PROJECT_DIR$/Test/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Test/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Test/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Test/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Test/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Test/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/Results/log.html" beforeDir="false" afterPath="$PROJECT_DIR$/Test/Results/log.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/Results/output.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Test/Results/output.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/Results/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/Test/Results/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Test/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/RobotRunner.bat" beforeDir="false" afterPath="$PROJECT_DIR$/Test/RobotRunner.bat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Test/Tests/Amazon.robot" beforeDir="false" afterPath="$PROJECT_DIR$/Test/Tests/Amazon.robot" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Test/Tests/Locators.robot" beforeDir="false" afterPath="$PROJECT_DIR$/Test/Tests/Locators.robot" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +36,10 @@
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectId" id="1mIJ7Yu6C78RHfGAasgPcYoVlqG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -39,23 +49,34 @@
       <pane id="ProjectPane" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\My Docs\PycharmProjects\Robot Framework Exercises\Test\Resources" />
+    </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a193c74-ce9c-4a50-8b80-aa52116abb81" name="Default Changelist" comment="" />
+      <created>1609175007529</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609175007529</updated>
+    </task>
+    <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
