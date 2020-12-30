@@ -11,7 +11,8 @@ Search for Products
 
 Select Product from Search Results
     #Click Link    css=#result_0 a.s-access-detail-page
-    Click Image    Thrustmaster Ferrari 458 Spider Racing Wheel for Xbox One
+    Click Element    css=#search > div.s-desktop-width-max.s-desktop-content.sg-row > div.sg-col-16-of-20.sg-col.sg-col-8-of-12.sg-col-12-of-16 > div > span:nth-child(4) > div.s-main-slot.s-result-list.s-search-results.sg-row > div:nth-child(2) > div > span > div > div > div:nth-child(3) > h2 > a
+    #Click Image    Thrustmaster Ferrari 458 Spider Racing Wheel for Xbox One
     Wait Until Page Contains    Back to results
 
 Add Product to Cart
